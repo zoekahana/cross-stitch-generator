@@ -1,0 +1,4987 @@
+{
+  "colors": [
+	{
+		"name": "Black",
+		"brand": "DMC",
+		"rgb": {
+			"r": 0,
+			"g": 0,
+			"b": 0
+		},
+		"code": 310,
+		"hex": "000000"
+	},
+	{
+		"name": "Blue Green Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 4,
+			"g": 77,
+			"b": 51
+		},
+		"code": 500,
+		"hex": "044D33"
+	},
+	{
+		"name": "Turquoise Bright Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 4,
+			"g": 196,
+			"b": 202
+		},
+		"code": 3845,
+		"hex": "04C4CA"
+	},
+	{
+		"name": "Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 5,
+			"g": 101,
+			"b": 23
+		},
+		"code": 699,
+		"hex": "056517"
+	},
+	{
+		"name": "Turquoise Bright Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 6,
+			"g": 227,
+			"b": 230
+		},
+		"code": 3846,
+		"hex": "06E3E6"
+	},
+	{
+		"name": "Green Bright",
+		"brand": "DMC",
+		"rgb": {
+			"r": 7,
+			"g": 115,
+			"b": 27
+		},
+		"code": 700,
+		"hex": "07731B"
+	},
+	{
+		"name": "Royal Blue Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 14,
+			"g": 54,
+			"b": 92
+		},
+		"code": 820,
+		"hex": "0E365C"
+	},
+	{
+		"name": "Royal Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 17,
+			"g": 65,
+			"b": 109
+		},
+		"code": 796,
+		"hex": "11416D"
+	},
+	{
+		"name": "Emerald Grn Ult V Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 17,
+			"g": 90,
+			"b": 59
+		},
+		"code": 3818,
+		"hex": "115A3B"
+	},
+	{
+		"name": "Turquoise Bright Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 18,
+			"g": 174,
+			"b": 186
+		},
+		"code": 3844,
+		"hex": "12AEBA"
+	},
+	{
+		"name": "Royal Blue",
+		"brand": "DMC",
+		"rgb": {
+			"r": 19,
+			"g": 71,
+			"b": 125
+		},
+		"code": 797,
+		"hex": "13477D"
+	},
+	{
+		"name": "Electric Blue",
+		"brand": "DMC",
+		"rgb": {
+			"r": 20,
+			"g": 170,
+			"b": 208
+		},
+		"code": 3843,
+		"hex": "14AAD0"
+	},
+	{
+		"name": "Emerald Green Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 21,
+			"g": 111,
+			"b": 73
+		},
+		"code": 909,
+		"hex": "156F49"
+	},
+	{
+		"name": "Pistachio Grn Ult V D",
+		"brand": "DMC",
+		"rgb": {
+			"r": 23,
+			"g": 73,
+			"b": 35
+		},
+		"code": 890,
+		"hex": "174923"
+	},
+	{
+		"name": "Emerald Green Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 24,
+			"g": 126,
+			"b": 86
+		},
+		"code": 910,
+		"hex": "187E56"
+	},
+	{
+		"name": "Emerald Green Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 24,
+			"g": 144,
+			"b": 101
+		},
+		"code": 911,
+		"hex": "189065"
+	},
+	{
+		"name": "Navy Blue Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 27,
+			"g": 40,
+			"b": 83
+		},
+		"code": 939,
+		"hex": "1B2853"
+	},
+	{
+		"name": "Hunter Green Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 27,
+			"g": 83,
+			"b": 0
+		},
+		"code": 3345,
+		"hex": "1B5300"
+	},
+	{
+		"name": "Hunter Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 27,
+			"g": 89,
+			"b": 21
+		},
+		"code": 3345,
+		"hex": "1B5915"
+	},
+	{
+		"name": "Emerald Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 27,
+			"g": 157,
+			"b": 107
+		},
+		"code": 912,
+		"hex": "1B9D6B"
+	},
+	{
+		"name": "Wedgewood Ult VyDk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 28,
+			"g": 80,
+			"b": 102
+		},
+		"code": 311,
+		"hex": "1C5066"
+	},
+	{
+		"name": "Black Brown",
+		"brand": "DMC",
+		"rgb": {
+			"r": 30,
+			"g": 17,
+			"b": 8
+		},
+		"code": 3371,
+		"hex": "1E1108"
+	},
+	{
+		"name": "Pistachio Grn Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 32,
+			"g": 95,
+			"b": 46
+		},
+		"code": 319,
+		"hex": "205F2E"
+	},
+	{
+		"name": "Navy Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 33,
+			"g": 48,
+			"b": 99
+		},
+		"code": 823,
+		"hex": "213063"
+	},
+	{
+		"name": "Navy Blue",
+		"brand": "DMC",
+		"rgb": {
+			"r": 37,
+			"g": 59,
+			"b": 115
+		},
+		"code": 336,
+		"hex": "253B73"
+	},
+	{
+		"name": "Electric Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 38,
+			"g": 150,
+			"b": 182
+		},
+		"code": 995,
+		"hex": "2696B6"
+	},
+	{
+		"name": "Baby Blue Ult Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 44,
+			"g": 89,
+			"b": 124
+		},
+		"code": 803,
+		"hex": "2C597C"
+	},
+	{
+		"name": "Celadon Green VD",
+		"brand": "DMC",
+		"rgb": {
+			"r": 44,
+			"g": 106,
+			"b": 69
+		},
+		"code": 561,
+		"hex": "2C6A45"
+	},
+	{
+		"name": "Sea Green Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 47,
+			"g": 140,
+			"b": 132
+		},
+		"code": 3812,
+		"hex": "2F8C84"
+	},
+	{
+		"name": "Electric Blue Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 48,
+			"g": 194,
+			"b": 236
+		},
+		"code": 996,
+		"hex": "30C2EC"
+	},
+	{
+		"name": "Avocado Grn Black",
+		"brand": "DMC",
+		"rgb": {
+			"r": 49,
+			"g": 57,
+			"b": 25
+		},
+		"code": 934,
+		"hex": "313919"
+	},
+	{
+		"name": "Wedgewood Vry Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 50,
+			"g": 102,
+			"b": 124
+		},
+		"code": 3842,
+		"hex": "32667C"
+	},
+	{
+		"name": "Jade Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 51,
+			"g": 131,
+			"b": 98
+		},
+		"code": 505,
+		"hex": "338362"
+	},
+	{
+		"name": "Teal Green Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 52,
+			"g": 125,
+			"b": 117
+		},
+		"code": 3847,
+		"hex": "347D75"
+	},
+	{
+		"name": "Peacock Blue Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 52,
+			"g": 127,
+			"b": 140
+		},
+		"code": 3765,
+		"hex": "347F8C"
+	},
+	{
+		"name": "Baby Blue Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 53,
+			"g": 102,
+			"b": 139
+		},
+		"code": 312,
+		"hex": "35668B"
+	},
+	{
+		"name": "Coffee Brown Ult Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 54,
+			"g": 31,
+			"b": 14
+		},
+		"code": 938,
+		"hex": "361F0E"
+	},
+	{
+		"name": "Turquoise Ult Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 54,
+			"g": 105,
+			"b": 112
+		},
+		"code": 3808,
+		"hex": "366970"
+	},
+	{
+		"name": "Green Bright Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 55,
+			"g": 132,
+			"b": 119
+		},
+		"code": 3850,
+		"hex": "378477"
+	},
+	{
+		"name": "Antique Blue Very Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 56,
+			"g": 76,
+			"b": 94
+		},
+		"code": 3750,
+		"hex": "384C5E"
+	},
+	{
+		"name": "Blue Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 57,
+			"g": 105,
+			"b": 135
+		},
+		"code": 824,
+		"hex": "396987"
+	},
+	{
+		"name": "Blue Green Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 57,
+			"g": 111,
+			"b": 82
+		},
+		"code": 501,
+		"hex": "396F52"
+	},
+	{
+		"name": "Wedgewood Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 59,
+			"g": 118,
+			"b": 143
+		},
+		"code": 517,
+		"hex": "3B768F"
+	},
+	{
+		"name": "Green Bright Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 61,
+			"g": 147,
+			"b": 132
+		},
+		"code": 943,
+		"hex": "3D9384"
+	},
+	{
+		"name": "Peacock Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 61,
+			"g": 149,
+			"b": 165
+		},
+		"code": 806,
+		"hex": "3D95A5"
+	},
+	{
+		"name": "Wedgewood Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 62,
+			"g": 133,
+			"b": 162
+		},
+		"code": 3760,
+		"hex": "3E85A2"
+	},
+	{
+		"name": "Sea Green Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 89,
+			"g": 199,
+			"b": 180
+		},
+		"code": 959,
+		"hex": "3EB6A1"
+	},
+	{
+		"name": "Sea Green Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 62,
+			"g": 182,
+			"b": 161
+		},
+		"code": 958,
+		"hex": "3EB6A1"
+	},
+	{
+		"name": "Turquoise Vy Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 63,
+			"g": 124,
+			"b": 133
+		},
+		"code": 3809,
+		"hex": "3F7C85"
+	},
+	{
+		"name": "Green Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 63,
+			"g": 143,
+			"b": 41
+		},
+		"code": 701,
+		"hex": "3F8F29"
+	},
+	{
+		"name": "Forest Green Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 64,
+			"g": 82,
+			"b": 48
+		},
+		"code": 986,
+		"hex": "405230"
+	},
+	{
+		"name": "Hunter Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 64,
+			"g": 106,
+			"b": 58
+		},
+		"code": 3346,
+		"hex": "406A3A"
+	},
+	{
+		"name": "Pewter Gray Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 66,
+			"g": 66,
+			"b": 66
+		},
+		"code": 3799,
+		"hex": "424242"
+	},
+	{
+		"name": "Avocado Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 66,
+			"g": 77,
+			"b": 33
+		},
+		"code": 935,
+		"hex": "424D21"
+	},
+	{
+		"name": "Antique Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 69,
+			"g": 92,
+			"b": 113
+		},
+		"code": 3750,
+		"hex": "455C71"
+	},
+	{
+		"name": "Cornflower Blue V D",
+		"brand": "DMC",
+		"rgb": {
+			"r": 70,
+			"g": 69,
+			"b": 99
+		},
+		"code": 791,
+		"hex": "464563"
+	},
+	{
+		"name": "Delft Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 70,
+			"g": 106,
+			"b": 142
+		},
+		"code": 798,
+		"hex": "466A8E"
+	},
+	{
+		"name": "Celadon Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 71,
+			"g": 119,
+			"b": 89
+		},
+		"code": 3815,
+		"hex": "477759"
+	},
+	{
+		"name": "Aquamarine Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 71,
+			"g": 123,
+			"b": 110
+		},
+		"code": 991,
+		"hex": "477B6E"
+	},
+	{
+		"name": "Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 107,
+			"g": 158,
+			"b": 191
+		},
+		"code": 825,
+		"hex": "4781A5"
+	},
+	{
+		"name": "Kelly Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 71,
+			"g": 167,
+			"b": 47
+		},
+		"code": 702,
+		"hex": "47A72F"
+	},
+	{
+		"name": "Beaver Gray Ult Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 72,
+			"g": 72,
+			"b": 72
+		},
+		"code": 844,
+		"hex": "484848"
+	},
+	{
+		"name": "Turquoise Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 72,
+			"g": 142,
+			"b": 154
+		},
+		"code": 3810,
+		"hex": "488E9A"
+	},
+	{
+		"name": "Coffee Brown Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 73,
+			"g": 42,
+			"b": 19
+		},
+		"code": 898,
+		"hex": "492A13"
+	},
+	{
+		"name": "Green Bright Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 73,
+			"g": 179,
+			"b": 161
+		},
+		"code": 3851,
+		"hex": "49B3A1"
+	},
+	{
+		"name": "Mocha Brown Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 75,
+			"g": 60,
+			"b": 42
+		},
+		"code": 3031,
+		"hex": "4B3C2A"
+	},
+	{
+		"name": "Cornflower Blu M V D",
+		"brand": "DMC",
+		"rgb": {
+			"r": 76,
+			"g": 82,
+			"b": 110
+		},
+		"code": 158,
+		"hex": "4C526E"
+	},
+	{
+		"name": "Avocado Grn V Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 76,
+			"g": 88,
+			"b": 38
+		},
+		"code": 936,
+		"hex": "4C5826"
+	},
+	{
+		"name": "Celadon Green Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 77,
+			"g": 131,
+			"b": 97
+		},
+		"code": 163,
+		"hex": "4D8361"
+	},
+	{
+		"name": "Brown Gray Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 79,
+			"g": 75,
+			"b": 65
+		},
+		"code": 3021,
+		"hex": "4F4B41"
+	},
+	{
+		"name": "Wedgewood Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 79,
+			"g": 147,
+			"b": 167
+		},
+		"code": 518,
+		"hex": "4F93A7"
+	},
+	{
+		"name": "Aquamarine",
+		"brand": "DMC",
+		"rgb": {
+			"r": 80,
+			"g": 139,
+			"b": 125
+		},
+		"code": 3814,
+		"hex": "508B7D"
+	},
+	{
+		"name": "Teal Green Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 82,
+			"g": 179,
+			"b": 164
+		},
+		"code": 3849,
+		"hex": "52B3A4"
+	},
+	{
+		"name": "Jade Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 83,
+			"g": 151,
+			"b": 106
+		},
+		"code": 562,
+		"hex": "53976A"
+	},
+	{
+		"name": "Cornflower Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 85,
+			"g": 91,
+			"b": 123
+		},
+		"code": 792,
+		"hex": "555B7B"
+	},
+	{
+		"name": "Parrot Green V Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 85,
+			"g": 120,
+			"b": 34
+		},
+		"code": 904,
+		"hex": "557822"
+	},
+	{
+		"name": "Teal Green Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 85,
+			"g": 147,
+			"b": 146
+		},
+		"code": 3848,
+		"hex": "559392"
+	},
+	{
+		"name": "Pewter Gray Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 86,
+			"g": 86,
+			"b": 86
+		},
+		"code": 413,
+		"hex": "565656"
+	},
+	{
+		"name": "Gray Green Vy Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 86,
+			"g": 106,
+			"b": 106
+		},
+		"code": 924,
+		"hex": "566A6A"
+	},
+	{
+		"name": "Grape Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 87,
+			"g": 36,
+			"b": 51
+		},
+		"code": 154,
+		"hex": "572433"
+	},
+	{
+		"name": "Forest Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 88,
+			"g": 113,
+			"b": 65
+		},
+		"code": 987,
+		"hex": "587141"
+	},
+	{
+		"name": "Beige Brown Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 89,
+			"g": 73,
+			"b": 55
+		},
+		"code": 838,
+		"hex": "594937"
+	},
+	{
+		"name": "Baby Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 90,
+			"g": 143,
+			"b": 184
+		},
+		"code": 322,
+		"hex": "5A8FB8"
+	},
+	{
+		"name": "Blue Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 91,
+			"g": 144,
+			"b": 113
+		},
+		"code": 502,
+		"hex": "5B9071"
+	},
+	{
+		"name": "Turquoise",
+		"brand": "DMC",
+		"rgb": {
+			"r": 91,
+			"g": 163,
+			"b": 179
+		},
+		"code": 597,
+		"hex": "5BA3B3"
+	},
+	{
+		"name": "Violet Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 92,
+			"g": 24,
+			"b": 78
+		},
+		"code": 550,
+		"hex": "5C184E"
+	},
+	{
+		"name": "Blue Violet Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 92,
+			"g": 84,
+			"b": 120
+		},
+		"code": 333,
+		"hex": "5C5478"
+	},
+	{
+		"name": "Lavender Blue Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 92,
+			"g": 114,
+			"b": 148
+		},
+		"code": 3838,
+		"hex": "5C7294"
+	},
+	{
+		"name": "Pine Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 94,
+			"g": 107,
+			"b": 71
+		},
+		"code": 3362,
+		"hex": "5E6B47"
+	},
+	{
+		"name": "Green Gray Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 95,
+			"g": 102,
+			"b": 72
+		},
+		"code": 3051,
+		"hex": "5F6648"
+	},
+	{
+		"name": "Cornflower Blue",
+		"brand": "DMC",
+		"rgb": {
+			"r": 96,
+			"g": 103,
+			"b": 140
+		},
+		"code": 3807,
+		"hex": "60678C"
+	},
+	{
+		"name": "Pistachio Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 97,
+			"g": 122,
+			"b": 82
+		},
+		"code": 367,
+		"hex": "617A52"
+	},
+	{
+		"name": "Cocoa Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 98,
+			"g": 75,
+			"b": 69
+		},
+		"code": 779,
+		"hex": "624B45"
+	},
+	{
+		"name": "Brown Gray Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 98,
+			"g": 93,
+			"b": 80
+		},
+		"code": 3787,
+		"hex": "625D50"
+	},
+	{
+		"name": "Avocado Green Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 98,
+			"g": 113,
+			"b": 51
+		},
+		"code": 937,
+		"hex": "627133"
+	},
+	{
+		"name": "Parrot Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 98,
+			"g": 138,
+			"b": 40
+		},
+		"code": 905,
+		"hex": "628A28"
+	},
+	{
+		"name": "Violet Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 99,
+			"g": 54,
+			"b": 102
+		},
+		"code": 327,
+		"hex": "633666"
+	},
+	{
+		"name": "Ash Gray Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 99,
+			"g": 100,
+			"b": 88
+		},
+		"code": 535,
+		"hex": "636458"
+	},
+	{
+		"name": "Peacock Blue",
+		"brand": "DMC",
+		"rgb": {
+			"r": 100,
+			"g": 171,
+			"b": 186
+		},
+		"code": 807,
+		"hex": "64ABBA"
+	},
+	{
+		"name": "Coffee Brown Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 101,
+			"g": 57,
+			"b": 25
+		},
+		"code": 801,
+		"hex": "653919"
+	},
+	{
+		"name": "Gray Green Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 101,
+			"g": 127,
+			"b": 127
+		},
+		"code": 3768,
+		"hex": "657F7F"
+	},
+	{
+		"name": "Celadon Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 101,
+			"g": 165,
+			"b": 125
+		},
+		"code": 3816,
+		"hex": "65A57D"
+	},
+	{
+		"name": "Fern Green Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 102,
+			"g": 109,
+			"b": 79
+		},
+		"code": 520,
+		"hex": "666D4F"
+	},
+	{
+		"name": "Beige Brown Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 103,
+			"g": 85,
+			"b": 65
+		},
+		"code": 839,
+		"hex": "675541"
+	},
+	{
+		"name": "Pistachio Green Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 105,
+			"g": 136,
+			"b": 90
+		},
+		"code": 320,
+		"hex": "69885A"
+	},
+	{
+		"name": "Antique Blue Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 106,
+			"g": 133,
+			"b": 158
+		},
+		"code": 931,
+		"hex": "6A859E"
+	},
+	{
+		"name": "Mocha Brown Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 107,
+			"g": 87,
+			"b": 67
+		},
+		"code": 3781,
+		"hex": "6B5743"
+	},
+	{
+		"name": "Blue Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 107,
+			"g": 158,
+			"b": 191
+		},
+		"code": 826,
+		"hex": "6B9EBF"
+	},
+	{
+		"name": "Lavender Ultra Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 108,
+			"g": 58,
+			"b": 110
+		},
+		"code": 3837,
+		"hex": "6C3A6E"
+	},
+	{
+		"name": "Pewter Gray",
+		"brand": "DMC",
+		"rgb": {
+			"r": 108,
+			"g": 108,
+			"b": 108
+		},
+		"code": 317,
+		"hex": "6C6C6C"
+	},
+	{
+		"name": "Nile Green Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 109,
+			"g": 171,
+			"b": 119
+		},
+		"code": 913,
+		"hex": "6DAB77"
+	},
+	{
+		"name": "Beaver Gray Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 110,
+			"g": 101,
+			"b": 92
+		},
+		"code": 645,
+		"hex": "6E655C"
+	},
+	{
+		"name": "Mahogany Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 111,
+			"g": 47,
+			"b": 0
+		},
+		"code": 300,
+		"hex": "6F2F00"
+	},
+	{
+		"name": "Aquamarine Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 111,
+			"g": 174,
+			"b": 159
+		},
+		"code": 992,
+		"hex": "6FAE9F"
+	},
+	{
+		"name": "Cornflower Blue Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 112,
+			"g": 125,
+			"b": 162
+		},
+		"code": 793,
+		"hex": "707DA2"
+	},
+	{
+		"name": "Antique Mauve Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 113,
+			"g": 65,
+			"b": 73
+		},
+		"code": 3802,
+		"hex": "714149"
+	},
+	{
+		"name": "Yellow Green Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 113,
+			"g": 147,
+			"b": 92
+		},
+		"code": 3347,
+		"hex": "71935C"
+	},
+	{
+		"name": "Grape Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 114,
+			"g": 55,
+			"b": 93
+		},
+		"code": 3834,
+		"hex": "72375D"
+	},
+	{
+		"name": "Pine Green Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 114,
+			"g": 130,
+			"b": 86
+		},
+		"code": 3363,
+		"hex": "728256"
+	},
+	{
+		"name": "Avocado Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 114,
+			"g": 132,
+			"b": 60
+		},
+		"code": 469,
+		"hex": "72843C"
+	},
+	{
+		"name": "Forest Green Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 115,
+			"g": 139,
+			"b": 91
+		},
+		"code": 988,
+		"hex": "738B5B"
+	},
+	{
+		"name": "Baby Blue Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 115,
+			"g": 159,
+			"b": 193
+		},
+		"code": 334,
+		"hex": "739FC1"
+	},
+	{
+		"name": "Delft Blue Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 116,
+			"g": 142,
+			"b": 182
+		},
+		"code": 799,
+		"hex": "748EB6"
+	},
+	{
+		"name": "Blue Violet Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 119,
+			"g": 107,
+			"b": 152
+		},
+		"code": 3746,
+		"hex": "776B98"
+	},
+	{
+		"name": "Antique Violet Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 120,
+			"g": 87,
+			"b": 98
+		},
+		"code": 3740,
+		"hex": "785762"
+	},
+	{
+		"name": "Blue Gray",
+		"brand": "DMC",
+		"rgb": {
+			"r": 120,
+			"g": 128,
+			"b": 164
+		},
+		"code": 161,
+		"hex": "7880A4"
+	},
+	{
+		"name": "Drab Brown Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 121,
+			"g": 96,
+			"b": 71
+		},
+		"code": 610,
+		"hex": "796047"
+	},
+	{
+		"name": "Brown Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 122,
+			"g": 69,
+			"b": 31
+		},
+		"code": 433,
+		"hex": "7A451F"
+	},
+	{
+		"name": "Garnet Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 123,
+			"g": 0,
+			"b": 27
+		},
+		"code": 814,
+		"hex": "7B001B"
+	},
+	{
+		"name": "Lavender Blue Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 123,
+			"g": 142,
+			"b": 171
+		},
+		"code": 3839,
+		"hex": "7B8EAB"
+	},
+	{
+		"name": "Blue Green Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 123,
+			"g": 172,
+			"b": 148
+		},
+		"code": 503,
+		"hex": "7BAC94"
+	},
+	{
+		"name": "Chartreuse",
+		"brand": "DMC",
+		"rgb": {
+			"r": 123,
+			"g": 181,
+			"b": 71
+		},
+		"code": 703,
+		"hex": "7BB547"
+	},
+	{
+		"name": "Cocoa",
+		"brand": "DMC",
+		"rgb": {
+			"r": 125,
+			"g": 93,
+			"b": 87
+		},
+		"code": 3860,
+		"hex": "7D5D57"
+	},
+	{
+		"name": "Golden Olive Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 126,
+			"g": 107,
+			"b": 66
+		},
+		"code": 829,
+		"hex": "7E6B42"
+	},
+	{
+		"name": "Sky Blue",
+		"brand": "DMC",
+		"rgb": {
+			"r": 126,
+			"g": 177,
+			"b": 200
+		},
+		"code": 519,
+		"hex": "7EB1C8"
+	},
+	{
+		"name": "Beige Gray Ult Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 127,
+			"g": 106,
+			"b": 85
+		},
+		"code": 3790,
+		"hex": "7F6A55"
+	},
+	{
+		"name": "Parrot Green Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 127,
+			"g": 179,
+			"b": 53
+		},
+		"code": 906,
+		"hex": "7FB335"
+	},
+	{
+		"name": "Violet Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 128,
+			"g": 58,
+			"b": 107
+		},
+		"code": 552,
+		"hex": "803A6B"
+	},
+	{
+		"name": "Antique Mauve Md Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 129,
+			"g": 73,
+			"b": 82
+		},
+		"code": 315,
+		"hex": "814952"
+	},
+	{
+		"name": "Plum Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 130,
+			"g": 0,
+			"b": 67
+		},
+		"code": 915,
+		"hex": "820043"
+	},
+	{
+		"name": "Garnet Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 130,
+			"g": 38,
+			"b": 55
+		},
+		"code": 902,
+		"hex": "822637"
+	},
+	{
+		"name": "Red Copper Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 130,
+			"g": 52,
+			"b": 10
+		},
+		"code": 918,
+		"hex": "82340A"
+	},
+	{
+		"name": "Olive Green V Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 130,
+			"g": 123,
+			"b": 48
+		},
+		"code": 730,
+		"hex": "827B30"
+	},
+	{
+		"name": "Lavender Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 131,
+			"g": 91,
+			"b": 139
+		},
+		"code": 208,
+		"hex": "835B8B"
+	},
+	{
+		"name": "Hazelnut Brown V Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 131,
+			"g": 94,
+			"b": 57
+		},
+		"code": 869,
+		"hex": "835E39"
+	},
+	{
+		"name": "Pine Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 131,
+			"g": 151,
+			"b": 95
+		},
+		"code": 3364,
+		"hex": "83975F"
+	},
+	{
+		"name": "Pewter Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 132,
+			"g": 132,
+			"b": 132
+		},
+		"code": 169,
+		"hex": "848484"
+	},
+	{
+		"name": "Beige Gray Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 133,
+			"g": 123,
+			"b": 97
+		},
+		"code": 640,
+		"hex": "857B61"
+	},
+	{
+		"name": "Terra Cotta Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 134,
+			"g": 48,
+			"b": 34
+		},
+		"code": 3777,
+		"hex": "863022"
+	},
+	{
+		"name": "Garnet Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 135,
+			"g": 7,
+			"b": 31
+		},
+		"code": 815,
+		"hex": "87071F"
+	},
+	{
+		"name": "Desert Sand Ult Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 135,
+			"g": 85,
+			"b": 57
+		},
+		"code": 632,
+		"hex": "875539"
+	},
+	{
+		"name": "Beaver Gray Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 135,
+			"g": 125,
+			"b": 115
+		},
+		"code": 646,
+		"hex": "877D73"
+	},
+	{
+		"name": "Mauve Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 136,
+			"g": 21,
+			"b": 49
+		},
+		"code": 3685,
+		"hex": "881531"
+	},
+	{
+		"name": "Shell Pink Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 136,
+			"g": 62,
+			"b": 67
+		},
+		"code": 221,
+		"hex": "883E43"
+	},
+	{
+		"name": "Moss Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 136,
+			"g": 141,
+			"b": 51
+		},
+		"code": 580,
+		"hex": "888D33"
+	},
+	{
+		"name": "Green Gray Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 136,
+			"g": 146,
+			"b": 104
+		},
+		"code": 3052,
+		"hex": "889268"
+	},
+	{
+		"name": "Nile Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 136,
+			"g": 186,
+			"b": 145
+		},
+		"code": 954,
+		"hex": "88BA91"
+	},
+	{
+		"name": "Khaki Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 137,
+			"g": 138,
+			"b": 88
+		},
+		"code": 3011,
+		"hex": "898A58"
+	},
+	{
+		"name": "Mocha Beige Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 138,
+			"g": 110,
+			"b": 78
+		},
+		"code": 3862,
+		"hex": "8A6E4E"
+	},
+	{
+		"name": "Steel Gray Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 140,
+			"g": 140,
+			"b": 140
+		},
+		"code": 414,
+		"hex": "8C8C8C"
+	},
+	{
+		"name": "Golden Olive Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 141,
+			"g": 120,
+			"b": 75
+		},
+		"code": 830,
+		"hex": "8D784B"
+	},
+	{
+		"name": "Forest Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 141,
+			"g": 166,
+			"b": 117
+		},
+		"code": 989,
+		"hex": "8DA675"
+	},
+	{
+		"name": "Brown Gray Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 142,
+			"g": 144,
+			"b": 120
+		},
+		"code": 3022,
+		"hex": "8E9078"
+	},
+	{
+		"name": "Mahogany Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 143,
+			"g": 67,
+			"b": 15
+		},
+		"code": 400,
+		"hex": "8F430F"
+	},
+	{
+		"name": "Cornflower Blue Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 143,
+			"g": 156,
+			"b": 193
+		},
+		"code": 794,
+		"hex": "8F9CC1"
+	},
+	{
+		"name": "Jade Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 143,
+			"g": 192,
+			"b": 152
+		},
+		"code": 563,
+		"hex": "8FC098"
+	},
+	{
+		"name": "Aquamarine Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 144,
+			"g": 192,
+			"b": 180
+		},
+		"code": 993,
+		"hex": "90C0B4"
+	},
+	{
+		"name": "Turquoise Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 144,
+			"g": 195,
+			"b": 204
+		},
+		"code": 598,
+		"hex": "90C3CC"
+	},
+	{
+		"name": "Raspberry Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 145,
+			"g": 54,
+			"b": 70
+		},
+		"code": 777,
+		"hex": "913546"
+	},
+	{
+		"name": "Golden Brown Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 145,
+			"g": 79,
+			"b": 18
+		},
+		"code": 975,
+		"hex": "914F12"
+	},
+	{
+		"name": "Shell Gray Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 145,
+			"g": 123,
+			"b": 115
+		},
+		"code": 451,
+		"hex": "917B73"
+	},
+	{
+		"name": "Olive Green Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 147,
+			"g": 139,
+			"b": 55
+		},
+		"code": 731,
+		"hex": "938B37"
+	},
+	{
+		"name": "Baby Blue",
+		"brand": "DMC",
+		"rgb": {
+			"r": 147,
+			"g": 180,
+			"b": 206
+		},
+		"code": 3755,
+		"hex": "93B4CE"
+	},
+	{
+		"name": "Grape Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 148,
+			"g": 96,
+			"b": 131
+		},
+		"code": 3835,
+		"hex": "946083"
+	},
+	{
+		"name": "Topaz Ultra Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 148,
+			"g": 99,
+			"b": 26
+		},
+		"code": 780,
+		"hex": "94631A"
+	},
+	{
+		"name": "Olive Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 148,
+			"g": 140,
+			"b": 54
+		},
+		"code": 732,
+		"hex": "948C36"
+	},
+	{
+		"name": "Delft Blue",
+		"brand": "DMC",
+		"rgb": {
+			"r": 148,
+			"g": 168,
+			"b": 198
+		},
+		"code": 809,
+		"hex": "94A8C6"
+	},
+	{
+		"name": "Avocado Grn Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 148,
+			"g": 171,
+			"b": 79
+		},
+		"code": 470,
+		"hex": "94AB4F"
+	},
+	{
+		"name": "Antique Violet Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 149,
+			"g": 111,
+			"b": 124
+		},
+		"code": 3041,
+		"hex": "956F7C"
+	},
+	{
+		"name": "Rosewood Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 150,
+			"g": 74,
+			"b": 63
+		},
+		"code": 3858,
+		"hex": "964A3F"
+	},
+	{
+		"name": "Drab Brown",
+		"brand": "DMC",
+		"rgb": {
+			"r": 150,
+			"g": 118,
+			"b": 86
+		},
+		"code": 611,
+		"hex": "967656"
+	},
+	{
+		"name": "Fern Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 150,
+			"g": 158,
+			"b": 126
+		},
+		"code": 522,
+		"hex": "969E7E"
+	},
+	{
+		"name": "Garnet",
+		"brand": "DMC",
+		"rgb": {
+			"r": 151,
+			"g": 11,
+			"b": 35
+		},
+		"code": 816,
+		"hex": "970b23"
+	},
+	{
+		"name": "Terra Cotta Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 152,
+			"g": 68,
+			"b": 54
+		},
+		"code": 355,
+		"hex": "984436"
+	},
+	{
+		"name": "Brown Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 152,
+			"g": 94,
+			"b": 51
+		},
+		"code": 434,
+		"hex": "985E33"
+	},
+	{
+		"name": "Blue Violet Med Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 152,
+			"g": 145,
+			"b": 182
+		},
+		"code": 155,
+		"hex": "9891B6"
+	},
+	{
+		"name": "Gray Green Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 152,
+			"g": 174,
+			"b": 174
+		},
+		"code": 926,
+		"hex": "98AEAE"
+	},
+	{
+		"name": "Blue Gray Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 153,
+			"g": 159,
+			"b": 183
+		},
+		"code": 160,
+		"hex": "999FB7"
+	},
+	{
+		"name": "Celadon Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 153,
+			"g": 195,
+			"b": 170
+		},
+		"code": 3817,
+		"hex": "99C3AA"
+	},
+	{
+		"name": "Peacock Blue Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 153,
+			"g": 207,
+			"b": 217
+		},
+		"code": 3766,
+		"hex": "99CFD9"
+	},
+	{
+		"name": "Beige Brown Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 154,
+			"g": 124,
+			"b": 92
+		},
+		"code": 840,
+		"hex": "9A7C5C"
+	},
+	{
+		"name": "Plum Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 155,
+			"g": 19,
+			"b": 89
+		},
+		"code": 917,
+		"hex": "9B1359"
+	},
+	{
+		"name": "Antique Mauve Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 155,
+			"g": 91,
+			"b": 102
+		},
+		"code": 3726,
+		"hex": "9B5B66"
+	},
+	{
+		"name": "Plum",
+		"brand": "DMC",
+		"rgb": {
+			"r": 156,
+			"g": 36,
+			"b": 98
+		},
+		"code": 718,
+		"hex": "9C2462"
+	},
+	{
+		"name": "Green Gray",
+		"brand": "DMC",
+		"rgb": {
+			"r": 156,
+			"g": 164,
+			"b": 130
+		},
+		"code": 3053,
+		"hex": "9CA482"
+	},
+	{
+		"name": "Chartreuse Bright",
+		"brand": "DMC",
+		"rgb": {
+			"r": 158,
+			"g": 207,
+			"b": 52
+		},
+		"code": 704,
+		"hex": "9ECF34"
+	},
+	{
+		"name": "Desert Sand Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 160,
+			"g": 108,
+			"b": 80
+		},
+		"code": 3772,
+		"hex": "A06C50"
+	},
+	{
+		"name": "Hazelnut Brown Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 183,
+			"g": 139,
+			"b": 97
+		},
+		"code": 420,
+		"hex": "A07042"
+	},
+	{
+		"name": "Shell Pink Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 161,
+			"g": 75,
+			"b": 81
+		},
+		"code": 3721,
+		"hex": "A14B51"
+	},
+	{
+		"name": "Blue Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 161,
+			"g": 194,
+			"b": 215
+		},
+		"code": 813,
+		"hex": "A1C2D7"
+	},
+	{
+		"name": "Topaz Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 162,
+			"g": 109,
+			"b": 32
+		},
+		"code": 781,
+		"hex": "A26D20"
+	},
+	{
+		"name": "Antique Blue Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 162,
+			"g": 181,
+			"b": 198
+		},
+		"code": 932,
+		"hex": "A2B5C6"
+	},
+	{
+		"name": "Nile Green Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 162,
+			"g": 214,
+			"b": 173
+		},
+		"code": 955,
+		"hex": "A2D6AD"
+	},
+	{
+		"name": "Violet",
+		"brand": "DMC",
+		"rgb": {
+			"r": 163,
+			"g": 99,
+			"b": 139
+		},
+		"code": 553,
+		"hex": "A3638B"
+	},
+	{
+		"name": "Lavender Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 163,
+			"g": 123,
+			"b": 167
+		},
+		"code": 209,
+		"hex": "A37BA7"
+	},
+	{
+		"name": "Blue Violet Med Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 163,
+			"g": 174,
+			"b": 209
+		},
+		"code": 156,
+		"hex": "A3AED1"
+	},
+	{
+		"name": "Mocha Beige Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 164,
+			"g": 131,
+			"b": 92
+		},
+		"code": 3863,
+		"hex": "A4835C"
+	},
+	{
+		"name": "Beige Gray Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 164,
+			"g": 152,
+			"b": 120
+		},
+		"code": 642,
+		"hex": "A49878"
+	},
+	{
+		"name": "Red Copper",
+		"brand": "DMC",
+		"rgb": {
+			"r": 166,
+			"g": 69,
+			"b": 16
+		},
+		"code": 919,
+		"hex": "A64510"
+	},
+	{
+		"name": "Cocoa Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 166,
+			"g": 136,
+			"b": 129
+		},
+		"code": 3861,
+		"hex": "A68881"
+	},
+	{
+		"name": "Khaki Green Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 166,
+			"g": 167,
+			"b": 93
+		},
+		"code": 3012,
+		"hex": "A6A75D"
+	},
+	{
+		"name": "Pistachio Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 166,
+			"g": 194,
+			"b": 152
+		},
+		"code": 368,
+		"hex": "A6C298"
+	},
+	{
+		"name": "Red Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 167,
+			"g": 19,
+			"b": 43
+		},
+		"code": 498,
+		"hex": "A7132B"
+	},
+	{
+		"name": "Yellow Beige V Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 167,
+			"g": 124,
+			"b": 73
+		},
+		"code": 167,
+		"hex": "A77C49"
+	},
+	{
+		"name": "Moss Green",
+		"brand": "DMC",
+		"rgb": {
+			"r": 167,
+			"g": 174,
+			"b": 56
+		},
+		"code": 581,
+		"hex": "A7AE38"
+	},
+	{
+		"name": "Jade Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 167,
+			"g": 205,
+			"b": 175
+		},
+		"code": 564,
+		"hex": "A7CDAF"
+	},
+	{
+		"name": "Old Gold Vy Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 169,
+			"g": 130,
+			"b": 4
+		},
+		"code": 3829,
+		"hex": "A98204"
+	},
+	{
+		"name": "Sea Green Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 169,
+			"g": 226,
+			"b": 216
+		},
+		"code": 964,
+		"hex": "A9E2D8"
+	},
+	{
+		"name": "Golden Olive Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 170,
+			"g": 143,
+			"b": 86
+		},
+		"code": 831,
+		"hex": "AA8F56"
+	},
+	{
+		"name": "Dusty Rose Ult Vy Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 171,
+			"g": 2,
+			"b": 73
+		},
+		"code": 150,
+		"hex": "AB0249"
+	},
+	{
+		"name": "Mauve Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 171,
+			"g": 51,
+			"b": 87
+		},
+		"code": 3803,
+		"hex": "AB3357"
+	},
+	{
+		"name": "Steel Gray Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 171,
+			"g": 171,
+			"b": 171
+		},
+		"code": 318,
+		"hex": "ABABAB"
+	},
+	{
+		"name": "Fern Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 171,
+			"g": 177,
+			"b": 151
+		},
+		"code": 523,
+		"hex": "ABB197"
+	},
+	{
+		"name": "Copper Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 172,
+			"g": 84,
+			"b": 20
+		},
+		"code": 920,
+		"hex": "AC5414"
+	},
+	{
+		"name": "Sky Blue Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 172,
+			"g": 216,
+			"b": 226
+		},
+		"code": 3761,
+		"hex": "ACD8E2"
+	},
+	{
+		"name": "Golden Brown",
+		"brand": "DMC",
+		"rgb": {
+			"r": 173,
+			"g": 114,
+			"b": 57
+		},
+		"code": 3826,
+		"hex": "AD7239"
+	},
+	{
+		"name": "Blue Violet Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 173,
+			"g": 167,
+			"b": 199
+		},
+		"code": 340,
+		"hex": "ADA7C7"
+	},
+	{
+		"name": "Topaz Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 174,
+			"g": 119,
+			"b": 32
+		},
+		"code": 782,
+		"hex": "AE7720"
+	},
+	{
+		"name": "Avocado Grn V Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 174,
+			"g": 191,
+			"b": 121
+		},
+		"code": 471,
+		"hex": "AEBF79"
+	},
+	{
+		"name": "Beaver Gray Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 176,
+			"g": 166,
+			"b": 156
+		},
+		"code": 647,
+		"hex": "B0A69C"
+	},
+	{
+		"name": "Lavender Blue Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 176,
+			"g": 192,
+			"b": 218
+		},
+		"code": 3840,
+		"hex": "B0C0DA"
+	},
+	{
+		"name": "Brown Gray Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 235,
+			"g": 234,
+			"b": 231
+		},
+		"code": 3023,
+		"hex": "B1AA97"
+	},
+	{
+		"name": "Blue Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 178,
+			"g": 212,
+			"b": 189
+		},
+		"code": 3813,
+		"hex": "B2D4BD"
+	},
+	{
+		"name": "Raspberry Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 145,
+			"g": 47,
+			"b": 72
+		},
+		"code": 3831,
+		"hex": "B32F48"
+	},
+	{
+		"name": "Rose Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 179,
+			"g": 59,
+			"b": 75
+		},
+		"code": 326,
+		"hex": "B33B4B"
+	},
+	{
+		"name": "Mahogany Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 179,
+			"g": 95,
+			"b": 43
+		},
+		"code": 301,
+		"hex": "B35F2B"
+	},
+	{
+		"name": "Mocha Brown Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 179,
+			"g": 159,
+			"b": 139
+		},
+		"code": 3032,
+		"hex": "B39F8B"
+	},
+	{
+		"name": "Desert Sand Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 182,
+			"g": 117,
+			"b": 82
+		},
+		"code": 3773,
+		"hex": "B67552"
+	},
+	{
+		"name": "Beige Brown Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 182,
+			"g": 155,
+			"b": 126
+		},
+		"code": 841,
+		"hex": "B69B7E"
+	},
+	{
+		"name": "Red Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 183,
+			"g": 31,
+			"b": 51
+		},
+		"code": 304,
+		"hex": "B71F33"
+	},
+	{
+		"name": "Antique Mauve Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 183,
+			"g": 115,
+			"b": 127
+		},
+		"code": 316,
+		"hex": "B7737F"
+	},
+	{
+		"name": "Hazelnut Brown",
+		"brand": "DMC",
+		"rgb": {
+			"r": 183,
+			"g": 139,
+			"b": 97
+		},
+		"code": 3828,
+		"hex": "B78B61"
+	},
+	{
+		"name": "Antique Violet Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 183,
+			"g": 157,
+			"b": 167
+		},
+		"code": 3042,
+		"hex": "B79DA7"
+	},
+	{
+		"name": "Blue Violet Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 183,
+			"g": 191,
+			"b": 221
+		},
+		"code": 341,
+		"hex": "B7BFDD"
+	},
+	{
+		"name": "Brown Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 184,
+			"g": 119,
+			"b": 72
+		},
+		"code": 435,
+		"hex": "B87748"
+	},
+	{
+		"name": "Baby Blue Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 184,
+			"g": 210,
+			"b": 230
+		},
+		"code": 3325,
+		"hex": "B8D2E6"
+	},
+	{
+		"name": "Terra Cotta",
+		"brand": "DMC",
+		"rgb": {
+			"r": 185,
+			"g": 85,
+			"b": 68
+		},
+		"code": 3830,
+		"hex": "B95544"
+	},
+	{
+		"name": "Mustard Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 184,
+			"g": 157,
+			"b": 100
+		},
+		"code": 370,
+		"hex": "B98D64"
+	},
+	{
+		"name": "Khaki Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 185,
+			"g": 185,
+			"b": 130
+		},
+		"code": 3013,
+		"hex": "B9B982"
+	},
+	{
+		"name": "Jade Ultra Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 185,
+			"g": 215,
+			"b": 192
+		},
+		"code": 966,
+		"hex": "B9D7C0"
+	},
+	{
+		"name": "Rosewood Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 186,
+			"g": 139,
+			"b": 124
+		},
+		"code": 3859,
+		"hex": "BA8B7C"
+	},
+	{
+		"name": "Grape Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 186,
+			"g": 145,
+			"b": 170
+		},
+		"code": 3836,
+		"hex": "BA91AA"
+	},
+	{
+		"name": "Coral Red Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 187,
+			"g": 5,
+			"b": 31
+		},
+		"code": 817,
+		"hex": "BB051F"
+	},
+	{
+		"name": "Desert Sand Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 187,
+			"g": 129,
+			"b": 97
+		},
+		"code": 407,
+		"hex": "BB8161"
+	},
+	{
+		"name": "Cornflower Blue Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 187,
+			"g": 195,
+			"b": 217
+		},
+		"code": 157,
+		"hex": "BBC3D9"
+	},
+	{
+		"name": "Dusty Rose Ultra Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 188,
+			"g": 67,
+			"b": 101
+		},
+		"code": 3350,
+		"hex": "BC4365"
+	},
+	{
+		"name": "Shell Pink Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 188,
+			"g": 108,
+			"b": 100
+		},
+		"code": 3722,
+		"hex": "BC6C64"
+	},
+	{
+		"name": "Old Gold Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 188,
+			"g": 141,
+			"b": 14
+		},
+		"code": 680,
+		"hex": "BC8D0E"
+	},
+	{
+		"name": "Yellow Beige Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 188,
+			"g": 150,
+			"b": 106
+		},
+		"code": 3045,
+		"hex": "BC966A"
+	},
+	{
+		"name": "Drab Brown Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 188,
+			"g": 154,
+			"b": 120
+		},
+		"code": 612,
+		"hex": "BC9A78"
+	},
+	{
+		"name": "Olive Green Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 188,
+			"g": 179,
+			"b": 76
+		},
+		"code": 733,
+		"hex": "BCB34C"
+	},
+	{
+		"name": "Beaver Gray Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 188,
+			"g": 180,
+			"b": 172
+		},
+		"code": 648,
+		"hex": "BCB4AC"
+	},
+	{
+		"name": "Turquoise Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 188,
+			"g": 227,
+			"b": 230
+		},
+		"code": 3811,
+		"hex": "BCE3E6"
+	},
+	{
+		"name": "Golden Olive",
+		"brand": "DMC",
+		"rgb": {
+			"r": 189,
+			"g": 155,
+			"b": 81
+		},
+		"code": 832,
+		"hex": "BD9B51"
+	},
+	{
+		"name": "Gray Green Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 189,
+			"g": 203,
+			"b": 203
+		},
+		"code": 927,
+		"hex": "BDCBCB"
+	},
+	{
+		"name": "Blue Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 189,
+			"g": 221,
+			"b": 237
+		},
+		"code": 827,
+		"hex": "BDDDED"
+	},
+	{
+		"name": "Salmon Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 191,
+			"g": 45,
+			"b": 45
+		},
+		"code": 347,
+		"hex": "BF2D2D"
+	},
+	{
+		"name": "Mustard",
+		"brand": "DMC",
+		"rgb": {
+			"r": 191,
+			"g": 166,
+			"b": 113
+		},
+		"code": 371,
+		"hex": "BFA671"
+	},
+	{
+		"name": "Shell Gray Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 192,
+			"g": 179,
+			"b": 174
+		},
+		"code": 452,
+		"hex": "C0B3AE"
+	},
+	{
+		"name": "Moss Green Md Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 192,
+			"g": 200,
+			"b": 64
+		},
+		"code": 166,
+		"hex": "C0C840"
+	},
+	{
+		"name": "Delft Blue Pale",
+		"brand": "DMC",
+		"rgb": {
+			"r": 192,
+			"g": 204,
+			"b": 222
+		},
+		"code": 800,
+		"hex": "C0CCDE"
+	},
+	{
+		"name": "Golden Brown Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 194,
+			"g": 129,
+			"b": 66
+		},
+		"code": 976,
+		"hex": "C28142"
+	},
+	{
+		"name": "Lavender Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 195,
+			"g": 159,
+			"b": 195
+		},
+		"code": 210,
+		"hex": "C39FC3"
+	},
+	{
+		"name": "Desert Sand",
+		"brand": "DMC",
+		"rgb": {
+			"r": 196,
+			"g": 142,
+			"b": 112
+		},
+		"code": 3064,
+		"hex": "C48E70"
+	},
+	{
+		"name": "Fern Green Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 196,
+			"g": 205,
+			"b": 172
+		},
+		"code": 524,
+		"hex": "C4CDAC"
+	},
+	{
+		"name": "Blue Green Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 196,
+			"g": 222,
+			"b": 204
+		},
+		"code": 504,
+		"hex": "C4DECC"
+	},
+	{
+		"name": "Plum Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 197,
+			"g": 73,
+			"b": 137
+		},
+		"code": 3607,
+		"hex": "C54989"
+	},
+	{
+		"name": "Terra Cotta Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 197,
+			"g": 106,
+			"b": 91
+		},
+		"code": 356,
+		"hex": "C56A5B"
+	},
+	{
+		"name": "Sky Blue Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 197,
+			"g": 232,
+			"b": 237
+		},
+		"code": 828,
+		"hex": "C5E8ED"
+	},
+	{
+		"name": "Copper",
+		"brand": "DMC",
+		"rgb": {
+			"r": 198,
+			"g": 98,
+			"b": 24
+		},
+		"code": 921,
+		"hex": "C66218"
+	},
+	{
+		"name": "Hazelnut Brown Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 198,
+			"g": 159,
+			"b": 123
+		},
+		"code": 422,
+		"hex": "C69F7B"
+	},
+	{
+		"name": "Red",
+		"brand": "DMC",
+		"rgb": {
+			"r": 199,
+			"g": 43,
+			"b": 59
+		},
+		"code": 321,
+		"hex": "C72B3B"
+	},
+	{
+		"name": "Olive Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 199,
+			"g": 192,
+			"b": 119
+		},
+		"code": 734,
+		"hex": "C7C077"
+	},
+	{
+		"name": "Blue Gray Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 199,
+			"g": 202,
+			"b": 215
+		},
+		"code": 159,
+		"hex": "C7CAD7"
+	},
+	{
+		"name": "Antique Blue Very Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 199,
+			"g": 209,
+			"b": 219
+		},
+		"code": 3752,
+		"hex": "C7D1DB"
+	},
+	{
+		"name": "Parrot Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 199,
+			"g": 230,
+			"b": 102
+		},
+		"code": 907,
+		"hex": "C7E666"
+	},
+	{
+		"name": "Golden Olive Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 200,
+			"g": 171,
+			"b": 108
+		},
+		"code": 833,
+		"hex": "C8AB6C"
+	},
+	{
+		"name": "Forest Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 200,
+			"g": 216,
+			"b": 184
+		},
+		"code": 164,
+		"hex": "C8D8B8"
+	},
+	{
+		"name": "Mauve",
+		"brand": "DMC",
+		"rgb": {
+			"r": 201,
+			"g": 107,
+			"b": 112
+		},
+		"code": 3687,
+		"hex": "C96B70"
+	},
+	{
+		"name": "Tan",
+		"brand": "DMC",
+		"rgb": {
+			"r": 203,
+			"g": 187,
+			"b": 142
+		},
+		"code": 436,
+		"hex": "CB9051"
+	},
+	{
+		"name": "Mocha Beige Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 203,
+			"g": 182,
+			"b": 156
+		},
+		"code": 3864,
+		"hex": "CBB69C"
+	},
+	{
+		"name": "Shell Pink Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 204,
+			"g": 132,
+			"b": 124
+		},
+		"code": 223,
+		"hex": "CC847C"
+	},
+	{
+		"name": "Mustard Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 204,
+			"g": 183,
+			"b": 132
+		},
+		"code": 372,
+		"hex": "CCB784"
+	},
+	{
+		"name": "Yellow Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 204,
+			"g": 217,
+			"b": 177
+		},
+		"code": 3348,
+		"hex": "CCD9B1"
+	},
+	{
+		"name": "Cranberry Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 209,
+			"g": 47,
+			"b": 99
+		},
+		"code": 600,
+		"hex": "CD2F63"
+	},
+	{
+		"name": "Straw Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 205,
+			"g": 157,
+			"b": 55
+		},
+		"code": 3852,
+		"hex": "CD9D37"
+	},
+	{
+		"name": "Baby Blue Pale",
+		"brand": "DMC",
+		"rgb": {
+			"r": 205,
+			"g": 223,
+			"b": 237
+		},
+		"code": 3841,
+		"hex": "CDDFED"
+	},
+	{
+		"name": "Topaz Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 206,
+			"g": 145,
+			"b": 36
+		},
+		"code": 783,
+		"hex": "CE9124"
+	},
+	{
+		"name": "Dusty Rose Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 207,
+			"g": 115,
+			"b": 115
+		},
+		"code": 961,
+		"hex": "CF7373"
+	},
+	{
+		"name": "Mahogany Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 207,
+			"g": 121,
+			"b": 57
+		},
+		"code": 3776,
+		"hex": "CF7939"
+	},
+	{
+		"name": "Old Gold Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 208,
+			"g": 165,
+			"b": 62
+		},
+		"code": 729,
+		"hex": "D0A53E"
+	},
+	{
+		"name": "Cranberry Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 209,
+			"g": 40,
+			"b": 106
+		},
+		"code": 601,
+		"hex": "D1286A"
+	},
+	{
+		"name": "Burnt Orange Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 209,
+			"g": 88,
+			"b": 7
+		},
+		"code": 900,
+		"hex": "D15807"
+	},
+	{
+		"name": "Beige Brown Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 209,
+			"g": 186,
+			"b": 161
+		},
+		"code": 842,
+		"hex": "D1BAA1"
+	},
+	{
+		"name": "Pewter Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 209,
+			"g": 209,
+			"b": 209
+		},
+		"code": 168,
+		"hex": "D1D1D1"
+	},
+	{
+		"name": "Coral Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 210,
+			"g": 16,
+			"b": 53
+		},
+		"code": 349,
+		"hex": "D21035"
+	},
+	{
+		"name": "Mocha Brown Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 210,
+			"g": 188,
+			"b": 166
+		},
+		"code": 3782,
+		"hex": "D2BCA6"
+	},
+	{
+		"name": "Pearl Gray",
+		"brand": "DMC",
+		"rgb": {
+			"r": 211,
+			"g": 211,
+			"b": 214
+		},
+		"code": 415,
+		"hex": "D3D3D6"
+	},
+	{
+		"name": "Blue Violet Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 211,
+			"g": 215,
+			"b": 237
+		},
+		"code": 3747,
+		"hex": "D3D7ED"
+	},
+	{
+		"name": "Rose Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 214,
+			"g": 43,
+			"b": 91
+		},
+		"code": 309,
+		"hex": "D62B5B"
+	},
+	{
+		"name": "Antique Violet Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 215,
+			"g": 203,
+			"b": 211
+		},
+		"code": 3743,
+		"hex": "D7CBD3"
+	},
+	{
+		"name": "Shell Gray Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 215,
+			"g": 206,
+			"b": 203
+		},
+		"code": 453,
+		"hex": "D7CECB"
+	},
+	{
+		"name": "Pistachio Green Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 215,
+			"g": 237,
+			"b": 204
+		},
+		"code": 369,
+		"hex": "D7EDCC"
+	},
+	{
+		"name": "Yellow Beige Md",
+		"brand": "DMC",
+		"rgb": {
+			"r": 216,
+			"g": 188,
+			"b": 154
+		},
+		"code": 3046,
+		"hex": "D8BC9A"
+	},
+	{
+		"name": "Avocado Grn U Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 216,
+			"g": 228,
+			"b": 152
+		},
+		"code": 472,
+		"hex": "D8E498"
+	},
+	{
+		"name": "Terra Cotta Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 217,
+			"g": 137,
+			"b": 120
+		},
+		"code": 3778,
+		"hex": "D98978"
+	},
+	{
+		"name": "Baby Blue Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 217,
+			"g": 235,
+			"b": 241
+		},
+		"code": 775,
+		"hex": "D9EBF1"
+	},
+	{
+		"name": "Dusty Rose Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 218,
+			"g": 103,
+			"b": 131
+		},
+		"code": 3731,
+		"hex": "DA6783"
+	},
+	{
+		"name": "Raspberry Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 219,
+			"g": 85,
+			"b": 110
+		},
+		"code": 3832,
+		"hex": "DB556E"
+	},
+	{
+		"name": "Antique Mauve Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 219,
+			"g": 169,
+			"b": 178
+		},
+		"code": 3727,
+		"hex": "DBA9B2"
+	},
+	{
+		"name": "Violet Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 219,
+			"g": 179,
+			"b": 203
+		},
+		"code": 554,
+		"hex": "DBB3CB"
+	},
+	{
+		"name": "Golden Olive Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 219,
+			"g": 190,
+			"b": 127
+		},
+		"code": 834,
+		"hex": "DBBE7F"
+	},
+	{
+		"name": "Antique Blue Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 219,
+			"g": 226,
+			"b": 233
+		},
+		"code": 3753,
+		"hex": "DBE2E9"
+	},
+	{
+		"name": "Blue Ultra Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 219,
+			"g": 236,
+			"b": 245
+		},
+		"code": 162,
+		"hex": "DBECF5"
+	},
+	{
+		"name": "Golden Brown Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 220,
+			"g": 156,
+			"b": 86
+		},
+		"code": 977,
+		"hex": "DC9C56"
+	},
+	{
+		"name": "Drab Brown V Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 220,
+			"g": 196,
+			"b": 170
+		},
+		"code": 613,
+		"hex": "DCC4AA"
+	},
+	{
+		"name": "Beige Gray Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 221,
+			"g": 216,
+			"b": 203
+		},
+		"code": 644,
+		"hex": "DDD8CB"
+	},
+	{
+		"name": "Gray Green Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 221,
+			"g": 227,
+			"b": 227
+		},
+		"code": 928,
+		"hex": "DDE3E3"
+	},
+	{
+		"name": "Antique Mauve Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 223,
+			"g": 179,
+			"b": 187
+		},
+		"code": 778,
+		"hex": "DFB3BB"
+	},
+	{
+		"name": "Straw Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 223,
+			"g": 182,
+			"b": 95
+		},
+		"code": 3820,
+		"hex": "DFB65F"
+	},
+	{
+		"name": "Cyclamen Pink Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 224,
+			"g": 40,
+			"b": 118
+		},
+		"code": 3804,
+		"hex": "E02876"
+	},
+	{
+		"name": "Coral Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 224,
+			"g": 72,
+			"b": 72
+		},
+		"code": 350,
+		"hex": "E04848"
+	},
+	{
+		"name": "Moss Green Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 224,
+			"g": 232,
+			"b": 104
+		},
+		"code": 3819,
+		"hex": "E0E868"
+	},
+	{
+		"name": "Cranberry Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 226,
+			"g": 72,
+			"b": 116
+		},
+		"code": 602,
+		"hex": "E24874"
+	},
+	{
+		"name": "Copper Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 226,
+			"g": 115,
+			"b": 35
+		},
+		"code": 922,
+		"hex": "E27323"
+	},
+	{
+		"name": "Shell Pink Med Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 226,
+			"g": 160,
+			"b": 153
+		},
+		"code": 152,
+		"hex": "E2A099"
+	},
+	{
+		"name": "Salmon Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 227,
+			"g": 109,
+			"b": 109
+		},
+		"code": 3328,
+		"hex": "E36D6D"
+	},
+	{
+		"name": "Lavender Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 227,
+			"g": 203,
+			"b": 227
+		},
+		"code": 211,
+		"hex": "E3CBE3"
+	},
+	{
+		"name": "Mocha Brown Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 227,
+			"g": 216,
+			"b": 204
+		},
+		"code": 3033,
+		"hex": "E3D8CC"
+	},
+	{
+		"name": "Dusty Rose Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 228,
+			"g": 166,
+			"b": 172
+		},
+		"code": 3354,
+		"hex": "E4A6AC"
+	},
+	{
+		"name": "Topaz",
+		"brand": "DMC",
+		"rgb": {
+			"r": 228,
+			"g": 180,
+			"b": 104
+		},
+		"code": 728,
+		"hex": "E4B468"
+	},
+	{
+		"name": "Tan Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 228,
+			"g": 187,
+			"b": 142
+		},
+		"code": 437,
+		"hex": "E4BB8E"
+	},
+	{
+		"name": "Yellow Green Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 228,
+			"g": 236,
+			"b": 212
+		},
+		"code": 772,
+		"hex": "E4ECD4"
+	},
+	{
+		"name": "Orange Spice Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 229,
+			"g": 92,
+			"b": 31
+		},
+		"code": 720,
+		"hex": "E55C1F"
+	},
+	{
+		"name": "Old Gold Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 229,
+			"g": 206,
+			"b": 151
+		},
+		"code": 676,
+		"hex": "E5CE97"
+	},
+	{
+		"name": "Peacock Blue Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 229,
+			"g": 252,
+			"b": 253
+		},
+		"code": 747,
+		"hex": "E5FCFD"
+	},
+	{
+		"name": "Dusty Rose Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 230,
+			"g": 138,
+			"b": 138
+		},
+		"code": 962,
+		"hex": "E68A8A"
+	},
+	{
+		"name": "Violet Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 230,
+			"g": 204,
+			"b": 217
+		},
+		"code": 153,
+		"hex": "E6CCD9"
+	},
+	{
+		"name": "Beaver Gray Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 230,
+			"g": 232,
+			"b": 232
+		},
+		"code": 3072,
+		"hex": "E6E8E8"
+	},
+	{
+		"name": "Melon Very Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 231,
+			"g": 73,
+			"b": 103
+		},
+		"code": 3801,
+		"hex": "E74967"
+	},
+	{
+		"name": "Bright Red",
+		"brand": "DMC",
+		"rgb": {
+			"r": 227,
+			"g": 29,
+			"b": 66
+		},
+		"code": 666,
+		"hex": "E74967"
+	},
+	{
+		"name": "Mauve Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 231,
+			"g": 169,
+			"b": 172
+		},
+		"code": 3688,
+		"hex": "E7A9AC"
+	},
+	{
+		"name": "Yellow Beige Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 231,
+			"g": 214,
+			"b": 193
+		},
+		"code": 3047,
+		"hex": "E7D6C1"
+	},
+	{
+		"name": "Beige Gray Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 231,
+			"g": 226,
+			"b": 211
+		},
+		"code": 822,
+		"hex": "E7E2D3"
+	},
+	{
+		"name": "Dusty Rose",
+		"brand": "DMC",
+		"rgb": {
+			"r": 232,
+			"g": 135,
+			"b": 155
+		},
+		"code": 3733,
+		"hex": "E8879B"
+	},
+	{
+		"name": "Coral",
+		"brand": "DMC",
+		"rgb": {
+			"r": 233,
+			"g": 106,
+			"b": 103
+		},
+		"code": 351,
+		"hex": "E96A67"
+	},
+	{
+		"name": "Raspberry Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 234,
+			"g": 134,
+			"b": 153
+		},
+		"code": 3833,
+		"hex": "EA8699"
+	},
+	{
+		"name": "Plum Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 234,
+			"g": 156,
+			"b": 196
+		},
+		"code": 3608,
+		"hex": "EA9CC4"
+	},
+	{
+		"name": "Burnt Orange Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 235,
+			"g": 99,
+			"b": 7
+		},
+		"code": 946,
+		"hex": "EB6307"
+	},
+	{
+		"name": "Shell Pink Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 235,
+			"g": 183,
+			"b": 175
+		},
+		"code": 224,
+		"hex": "EBB7AF"
+	},
+	{
+		"name": "Brown Gray Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 235,
+			"g": 234,
+			"b": 231
+		},
+		"code": 3024,
+		"hex": "EBEAE7"
+	},
+	{
+		"name": "Tan Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 236,
+			"g": 204,
+			"b": 158
+		},
+		"code": 738,
+		"hex": "ECCC9E"
+	},
+	{
+		"name": "Pearl Gray Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 236,
+			"g": 236,
+			"b": 236
+		},
+		"code": 762,
+		"hex": "ECECEC"
+	},
+	{
+		"name": "Rose",
+		"brand": "DMC",
+		"rgb": {
+			"r": 238,
+			"g": 84,
+			"b": 110
+		},
+		"code": 335,
+		"hex": "EE546E"
+	},
+	{
+		"name": "Terra Cotta Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 238,
+			"g": 170,
+			"b": 155
+		},
+		"code": 758,
+		"hex": "EEAA9B"
+	},
+	{
+		"name": "Desert Sand Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 238,
+			"g": 211,
+			"b": 196
+		},
+		"code": 950,
+		"hex": "EED3C4"
+	},
+	{
+		"name": "Baby Blue Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 238,
+			"g": 252,
+			"b": 252
+		},
+		"code": 3756,
+		"hex": "EEFCFC"
+	},
+	{
+		"name": "Moss Green Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 239,
+			"g": 244,
+			"b": 164
+		},
+		"code": 165,
+		"hex": "EFF4A4"
+	},
+	{
+		"name": "Dusty Rose Vry Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 240,
+			"g": 206,
+			"b": 212
+		},
+		"code": 151,
+		"hex": "F0CED4"
+	},
+	{
+		"name": "Ecru",
+		"brand": "DMC",
+		"rgb": {
+			"r": 240,
+			"g": 234,
+			"b": 218
+		},
+		"code": "Ecru",
+		"hex": "F0EADA"
+	},
+	{
+		"name": "Salmon Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 241,
+			"g": 135,
+			"b": 135
+		},
+		"code": 3712,
+		"hex": "F18787"
+	},
+	{
+		"name": "Rose Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 242,
+			"g": 118,
+			"b": 136
+		},
+		"code": 899,
+		"hex": "F27688"
+	},
+	{
+		"name": "Orange Spice Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 242,
+			"g": 120,
+			"b": 66
+		},
+		"code": 721,
+		"hex": "F27842"
+	},
+	{
+		"name": "Autumn Gold Dk",
+		"brand": "DMC",
+		"rgb": {
+			"r": 242,
+			"g": 151,
+			"b": 70
+		},
+		"code": 3853,
+		"hex": "F29746"
+	},
+	{
+		"name": "Autumn Gold Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 242,
+			"g": 175,
+			"b": 104
+		},
+		"code": 3854,
+		"hex": "F2AF68"
+	},
+	{
+		"name": "Beige Brown Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 242,
+			"g": 227,
+			"b": 206
+		},
+		"code": 543,
+		"hex": "F2E3CE"
+	},
+	{
+		"name": "Cyclamen Pink",
+		"brand": "DMC",
+		"rgb": {
+			"r": 243,
+			"g": 71,
+			"b": 139
+		},
+		"code": 3805,
+		"hex": "F3478B"
+	},
+	{
+		"name": "Straw",
+		"brand": "DMC",
+		"rgb": {
+			"r": 243,
+			"g": 206,
+			"b": 117
+		},
+		"code": 3821,
+		"hex": "F3CE75"
+	},
+	{
+		"name": "Rosewood Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 104,
+			"g": 37,
+			"b": 26
+		},
+		"code": 3857,
+		"hex": "F3E1D7"
+	},
+	{
+		"name": "Desert Sand Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 243,
+			"g": 225,
+			"b": 215
+		},
+		"code": 3774,
+		"hex": "F3E1D7"
+	},
+	{
+		"name": "Plum Ultra Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 244,
+			"g": 174,
+			"b": 213
+		},
+		"code": 3609,
+		"hex": "F4AED5"
+	},
+	{
+		"name": "Terra Cotta Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 244,
+			"g": 187,
+			"b": 169
+		},
+		"code": 3771,
+		"hex": "F4BBA9"
+	},
+	{
+		"name": "Salmon",
+		"brand": "DMC",
+		"rgb": {
+			"r": 245,
+			"g": 173,
+			"b": 173
+		},
+		"code": 760,
+		"hex": "F5ADAD"
+	},
+	{
+		"name": "Old Gold Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 245,
+			"g": 236,
+			"b": 203
+		},
+		"code": 677,
+		"hex": "F5ECCB"
+	},
+	{
+		"name": "Pumpkin",
+		"brand": "DMC",
+		"rgb": {
+			"r": 246,
+			"g": 127,
+			"b": 0
+		},
+		"code": 971,
+		"hex": "F67F00"
+	},
+	{
+		"name": "Straw Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 246,
+			"g": 220,
+			"b": 152
+		},
+		"code": 3822,
+		"hex": "F6DC98"
+	},
+	{
+		"name": "Pumpkin Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 247,
+			"g": 129,
+			"b": 19
+		},
+		"code": 970,
+		"hex": "F78B13"
+	},
+	{
+		"name": "Orange Spice Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 247,
+			"g": 151,
+			"b": 111
+		},
+		"code": 722,
+		"hex": "F7976F"
+	},
+	{
+		"name": "Mahogany Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 247,
+			"g": 167,
+			"b": 119
+		},
+		"code": 402,
+		"hex": "F7A777"
+	},
+	{
+		"name": "Golden Brown Pale",
+		"brand": "DMC",
+		"rgb": {
+			"r": 247,
+			"g": 187,
+			"b": 119
+		},
+		"code": 3827,
+		"hex": "F7BB77"
+	},
+	{
+		"name": "Peach Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 247,
+			"g": 203,
+			"b": 218
+		},
+		"code": 754,
+		"hex": "F7CBBF"
+	},
+	{
+		"name": "Rosewood Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 248,
+			"g": 202,
+			"b": 200
+		},
+		"code": 3779,
+		"hex": "F8CAC8"
+	},
+	{
+		"name": "Tan Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 248,
+			"g": 228,
+			"b": 200
+		},
+		"code": 739,
+		"hex": "F8E4C8"
+	},
+	{
+		"name": "Orange Red Bright",
+		"brand": "DMC",
+		"rgb": {
+			"r": 250,
+			"g": 50,
+			"b": 3
+		},
+		"code": 606,
+		"hex": "FA3203"
+	},
+	{
+		"name": "Autumn Gold Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 250,
+			"g": 211,
+			"b": 150
+		},
+		"code": 3855,
+		"hex": "FAD396"
+	},
+	{
+		"name": "Mocha Brn Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 250,
+			"g": 246,
+			"b": 240
+		},
+		"code": 3866,
+		"hex": "FAF6F0"
+	},
+	{
+		"name": "Rose Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 251,
+			"g": 173,
+			"b": 180
+		},
+		"code": 3326,
+		"hex": "FBADB4"
+	},
+	{
+		"name": "Mauve Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 251,
+			"g": 191,
+			"b": 194
+		},
+		"code": 3689,
+		"hex": "FBBFC2"
+	},
+	{
+		"name": "Carnation Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 252,
+			"g": 144,
+			"b": 162
+		},
+		"code": 893,
+		"hex": "FC90A2"
+	},
+	{
+		"name": "Apricot",
+		"brand": "DMC",
+		"rgb": {
+			"r": 252,
+			"g": 171,
+			"b": 152
+		},
+		"code": 3341,
+		"hex": "FCAB98"
+	},
+	{
+		"name": "Pink Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 252,
+			"g": 176,
+			"b": 185
+		},
+		"code": 776,
+		"hex": "FCB0B9"
+	},
+	{
+		"name": "White",
+		"brand": "DMC",
+		"rgb": {
+			"r": 252,
+			"g": 251,
+			"b": 248
+		},
+		"code": "White",
+		"hex": "FCFBF8"
+	},
+	{
+		"name": "Off White",
+		"brand": "DMC",
+		"rgb": {
+			"r": 252,
+			"g": 252,
+			"b": 238
+		},
+		"code": 746,
+		"hex": "FCFCEE"
+	},
+	{
+		"name": "Burnt Orange Bright",
+		"brand": "DMC",
+		"rgb": {
+			"r": 253,
+			"g": 93,
+			"b": 53
+		},
+		"code": 608,
+		"hex": "FD5D35"
+	},
+	{
+		"name": "Coral Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 253,
+			"g": 156,
+			"b": 151
+		},
+		"code": 352,
+		"hex": "FD9C97"
+	},
+	{
+		"name": "Geranium Pale",
+		"brand": "DMC",
+		"rgb": {
+			"r": 253,
+			"g": 181,
+			"b": 181
+		},
+		"code": 957,
+		"hex": "FDB5B5"
+	},
+	{
+		"name": "Tawny",
+		"brand": "DMC",
+		"rgb": {
+			"r": 251,
+			"g": 213,
+			"b": 187
+		},
+		"code": 945,
+		"hex": "FDB5BB"
+	},
+	{
+		"name": "Pumpkin Pale",
+		"brand": "DMC",
+		"rgb": {
+			"r": 253,
+			"g": 189,
+			"b": 150
+		},
+		"code": 3825,
+		"hex": "FDBD96"
+	},
+	{
+		"name": "Topaz Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 253,
+			"g": 215,
+			"b": 85
+		},
+		"code": 726,
+		"hex": "FDD755"
+	},
+	{
+		"name": "Lemon",
+		"brand": "DMC",
+		"rgb": {
+			"r": 253,
+			"g": 249,
+			"b": 205
+		},
+		"code": 307,
+		"hex": "FDED54"
+	},
+	{
+		"name": "Golden Yellow Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 253,
+			"g": 249,
+			"b": 205
+		},
+		"code": 3078,
+		"hex": "FDF9CD"
+	},
+	{
+		"name": "Apricot Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 254,
+			"g": 205,
+			"b": 194
+		},
+		"code": 3824,
+		"hex": "FECDC2"
+	},
+	{
+		"name": "Yellow Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 254,
+			"g": 211,
+			"b": 118
+		},
+		"code": 743,
+		"hex": "FED376"
+	},
+	{
+		"name": "Peach",
+		"brand": "DMC",
+		"rgb": {
+			"r": 254,
+			"g": 215,
+			"b": 204
+		},
+		"code": 353,
+		"hex": "FED7CC"
+	},
+	{
+		"name": "Peach Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 254,
+			"g": 231,
+			"b": 218
+		},
+		"code": 948,
+		"hex": "FEE7DA"
+	},
+	{
+		"name": "Carnation Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 87,
+			"b": 115
+		},
+		"code": 891,
+		"hex": "FF5773"
+	},
+	{
+		"name": "Carnation  Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 121,
+			"b": 140
+		},
+		"code": 892,
+		"hex": "FF798C"
+	},
+	{
+		"name": "Melon Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 121,
+			"b": 146
+		},
+		"code": 3705,
+		"hex": "FF7992"
+	},
+	{
+		"name": "Burnt Orange",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 123,
+			"b": 77
+		},
+		"code": 947,
+		"hex": "FF7B4D"
+	},
+	{
+		"name": "Apricot Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 131,
+			"b": 111
+		},
+		"code": 3340,
+		"hex": "FF836F"
+	},
+	{
+		"name": "Tangerine",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 139,
+			"b": 0
+		},
+		"code": 740,
+		"hex": "FF8B00"
+	},
+	{
+		"name": "Cyclamen Pink Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 140,
+			"b": 174
+		},
+		"code": 3806,
+		"hex": "FF8CAE"
+	},
+	{
+		"name": "Geranium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 145,
+			"b": 145
+		},
+		"code": 956,
+		"hex": "FF9191"
+	},
+	{
+		"name": "Tangerine Med",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 163,
+			"b": 43
+		},
+		"code": 741,
+		"hex": "FFA32B"
+	},
+	{
+		"name": "Cranberry",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 176,
+			"b": 190
+		},
+		"code": 603,
+		"hex": "FFA4BE"
+	},
+	{
+		"name": "Melon Medium",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 173,
+			"b": 188
+		},
+		"code": 3706,
+		"hex": "FFADBC"
+	},
+	{
+		"name": "Cranberry Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 176,
+			"b": 190
+		},
+		"code": 604,
+		"hex": "FFB0BE"
+	},
+	{
+		"name": "Carnation Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 178,
+			"b": 187
+		},
+		"code": 894,
+		"hex": "FFB2BB"
+	},
+	{
+		"name": "Canary Deep",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 181,
+			"b": 21
+		},
+		"code": 972,
+		"hex": "FFB515"
+	},
+	{
+		"name": "Dusty Rose Med Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 189,
+			"b": 189
+		},
+		"code": 3716,
+		"hex": "FFBDBD"
+	},
+	{
+		"name": "Tangerine Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 191,
+			"b": 87
+		},
+		"code": 742,
+		"hex": "FFBF57"
+	},
+	{
+		"name": "Cranberry Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 192,
+			"b": 205
+		},
+		"code": 605,
+		"hex": "FFC0CD"
+	},
+	{
+		"name": "Topaz Med Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 200,
+			"b": 64
+		},
+		"code": 725,
+		"hex": "FFC840"
+	},
+	{
+		"name": "Salmon Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 201,
+			"b": 201
+		},
+		"code": 761,
+		"hex": "FFC9C9"
+	},
+	{
+		"name": "Melon Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 203,
+			"b": 213
+		},
+		"code": 3708,
+		"hex": "FFCBD5"
+	},
+	{
+		"name": "Mahogany Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 221,
+			"b": 181
+		},
+		"code": 3856,
+		"hex": "FFD3B5"
+	},
+	{
+		"name": "Lemon Dark",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 214,
+			"b": 0
+		},
+		"code": 444,
+		"hex": "FFD600"
+	},
+	{
+		"name": "Dusty Rose Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 215,
+			"b": 215
+		},
+		"code": 963,
+		"hex": "FFD7D7"
+	},
+	{
+		"name": "Apricot Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 222,
+			"b": 213
+		},
+		"code": 967,
+		"hex": "FFDED5"
+	},
+	{
+		"name": "Shell Pink Ult Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 223,
+			"b": 213
+		},
+		"code": 225,
+		"hex": "FFDFD5"
+	},
+	{
+		"name": "Baby Pink",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 223,
+			"b": 217
+		},
+		"code": 818,
+		"hex": "FFDFD9"
+	},
+	{
+		"name": "Tawny Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 226,
+			"b": 207
+		},
+		"code": 951,
+		"hex": "FFE2CF"
+	},
+	{
+		"name": "Salmon Very Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 226,
+			"b": 226
+		},
+		"code": 3713,
+		"hex": "FFE2E2"
+	},
+	{
+		"name": "Canary Bright",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 227,
+			"b": 0
+		},
+		"code": 973,
+		"hex": "FFE300"
+	},
+	{
+		"name": "Yellow Pale",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 231,
+			"b": 147
+		},
+		"code": 744,
+		"hex": "FFE793"
+	},
+	{
+		"name": "Yellow Pale Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 233,
+			"b": 173
+		},
+		"code": 745,
+		"hex": "FFE9AD"
+	},
+	{
+		"name": "Tawny Vy Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 238,
+			"b": 227
+		},
+		"code": 3770,
+		"hex": "FFEEE3"
+	},
+	{
+		"name": "Baby Pink Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 238,
+			"b": 235
+		},
+		"code": 819,
+		"hex": "FFEEEB"
+	},
+	{
+		"name": "Topaz Vy Lt",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 241,
+			"b": 175
+		},
+		"code": 727,
+		"hex": "FFF1AF"
+	},
+	{
+		"name": "Lemon Light",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 251,
+			"b": 139
+		},
+		"code": 445,
+		"hex": "FFFB8B"
+	},
+	{
+		"name": "Cream",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 251,
+			"b": 239
+		},
+		"code": 712,
+		"hex": "FFFBEF"
+	},
+	{
+		"name": "Yellow Ultra Pale",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 253,
+			"b": 227
+		},
+		"code": 3823,
+		"hex": "FFFDE3"
+	},
+	{
+		"name": "Snow White",
+		"brand": "DMC",
+		"rgb": {
+			"r": 255,
+			"g": 255,
+			"b": 255
+		},
+		"code": "B5200",
+		"hex": "FFFFFF"
+	}
+ ]
+}
