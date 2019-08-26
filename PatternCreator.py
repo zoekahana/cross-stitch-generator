@@ -34,7 +34,7 @@ class PatternCreator:
     :param max_colors: the maximum number of colors to be used in the result.
     Returns the image converted into a pattern.
     '''
-    def create_pattern(self, width, brand, max_colors = 100):
+    def create_pattern(self, width, brand, max_colors = 200):
 
         # Resize the image to the desired width.
         resized = self.resize_image(self.orig_im, width)
