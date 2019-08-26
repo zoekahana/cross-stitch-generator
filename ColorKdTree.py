@@ -111,7 +111,7 @@ class ColorKdTree:
             
         # Determine whether to search left or right subtree first.
         curr_level = ColorKdTree.dim_to_rgb[curr_dim]
-        if color.rgb[curr_level] < curr_node.color.rgb[curr_level]:
+        if color.get_level(curr_level) < curr_node.color.get_level(curr_level):
             search_first = curr_node.left
             search_second = curr_node.right
         else:
@@ -149,7 +149,7 @@ class ColorKdTree:
         level = ColorKdTree.dim_to_rgb[dim]
         
         # Only check branch if it could contain a closer point on that plane.
-        return (color.rgb[level] - node.color.rgb[level]) ** 2 < best_dis
+        return (color.get_level(level) - node.color.get_level(level)) ** 2 < best_dis
         
     ''' Prints color names in a tree in level-order for debugging. '''
     def iterate(self):
